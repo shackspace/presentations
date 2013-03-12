@@ -16,6 +16,9 @@ Gregor has been one of the co-founders of shackspace, the Stuttgart hackerspace 
 ### Short Biography:
 Gregor was born back in the early eighties, holds a degree in Computer Science and has been working in the fields of industrial and bio-tech image processing, camera systems and software development for regular and embedded platforms.
 
+## Recording
+http://www.youtube.com/watch?v=IWtxM3R5ENw
+
 ## License
 All content not otherwise marked as such is released under CC-0 als public domain.
 Specific license information of content is given on the last presentation slide.
