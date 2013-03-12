@@ -5,6 +5,7 @@ Gregor Jehle at TEDxStuttgart
 
 ## Event
 Re:Think – Re:Invent – Re:Create
+
 FEBRUARY 13th, 2013 | THEATER RAMPE
 
 ## SYNOPSIS
